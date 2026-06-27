@@ -25,7 +25,7 @@ Key finding: Post-2021 tech layoffs decoupled from unemployment trends — drive
 
 ---
 
-### 🔹 [Bank Loan Risk Analysis](https://github.com/tanujramchandani/banking-loan-dataset)
+### 🔹 [Bank Loan Analysis](https://github.com/tanujramchandani/banking-loan-dataset)
 Analyzed 38,576 loan records to identify default risk patterns across borrower grades, purposes, and geographies.
 Wrote 12 SQL queries for KPI calculation and default rate analysis. Built 3-page Power BI risk dashboard.
 Key finding: Grade C–D borrowers represent 40% of portfolio volume but carry disproportionate default risk.
